@@ -30,6 +30,7 @@ const (
 	// Operators
 	ASSIGN = "="
 	PLUS   = "+"
+	MINUS  = "-"
 
 	// Delimiters
 	COMMA     = ","
